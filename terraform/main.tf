@@ -37,10 +37,7 @@
 #   source = "./modules/ecr"
 # }
 
-resource "aws_route53_zone" "enkrypt_ai_1" {
-    name = "himanshutestterraform.xyz"
-    comment = ""
-}
+
 
 
 
